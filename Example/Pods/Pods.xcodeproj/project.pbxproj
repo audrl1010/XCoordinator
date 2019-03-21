@@ -2985,7 +2985,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/XCoordinator/XCoordinator.modulemap";
-				PRODUCT_MODULE_NAME = XCoordinator;
+				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.XCoordinator;
+				PRODUCT_MODULE_NAME = XCoordinatorNoRx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -3017,7 +3018,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/XCoordinator/XCoordinator.modulemap";
-				PRODUCT_MODULE_NAME = XCoordinator;
+				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.XCoordinator;
+				PRODUCT_MODULE_NAME = XCoordinatorNoRx;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
