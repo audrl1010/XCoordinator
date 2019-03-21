@@ -2987,7 +2987,7 @@
 				MODULEMAP_FILE = "Target Support Files/XCoordinator/XCoordinator.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.XCoordinator;
 				PRODUCT_MODULE_NAME = XCoordinatorNoRx;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = XCoordinatorNoRx;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
@@ -3020,7 +3020,7 @@
 				MODULEMAP_FILE = "Target Support Files/XCoordinator/XCoordinator.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = org.cocoapods.XCoordinator;
 				PRODUCT_MODULE_NAME = XCoordinatorNoRx;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = XCoordinatorNoRx;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
